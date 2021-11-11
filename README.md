@@ -1,4 +1,4 @@
- # <a href="https://www.linkedin.com/in/giovannamoeller/">Giovanna Moeller</a>
+ # <a href="https://www.linkedin.com/in/mbeatrizribeiro/">Beatriz Ribeiro</a>
  
 ## About Me
 Tenho 24 anos, bacharel em Sistemas de Informação pela Universidade Anhembi Morumbi (UAM). Tenho me especializado em Engenharia de Software Ágil por ser completamente apaixonada pela agilidade e inovação.
