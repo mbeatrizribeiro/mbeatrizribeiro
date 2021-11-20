@@ -7,7 +7,7 @@ Sou uma desenvolvedora web, buscando especializar-se em backend utilizando como 
 
 ## Technologies
 - Backend Languages: C# e javascrip
-- Frameworks: Entity Framework Core, ASP.NET Core, .NET Core
+- Frameworks: Entity Framework Core, ASP.NET Core, .NET Core, .NET5
 - Ferramentas ágeis: Jenkins, GIT
 - Dados: SQL Server, Postgree
 
