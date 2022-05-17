@@ -1,7 +1,7 @@
  # <a href="https://www.linkedin.com/in/mbeatrizribeiro/">Beatriz Ribeiro</a>
  
 ## About Me
-Tenho 24 anos, bacharel em Sistemas de Informação pela Universidade Anhembi Morumbi (UAM). Tenho me especializado em Engenharia de Software Ágil por ser completamente apaixonada pela agilidade e inovação.
+Tenho 25 anos, bacharel em Sistemas de Informação pela Universidade Anhembi Morumbi (UAM). Tenho me especializado em Engenharia de Software Ágil por ser completamente apaixonada pela agilidade e inovação.
 <br>
 Sou uma desenvolvedora web, buscando especializar-se em backend utilizando como tecnologia principal o .Net.
 
